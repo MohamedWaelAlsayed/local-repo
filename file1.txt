@@ -1,3 +1,4 @@
 First line in file1.txt
 Second line in remote repo
 Third line in remote master
+Fourth line in local
